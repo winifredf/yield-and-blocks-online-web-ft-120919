@@ -8,6 +8,7 @@ def hello_t(array)
   
     array
   else
+    puts 
 
 # call your method here!
 
